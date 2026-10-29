@@ -2,7 +2,7 @@
 
 Desktop app for hotel staff, built with C# WinForms (.NET Framework 4.8) and Guna UI2. Team project (team 3TL).
 
-**Status: early stage.** Staff login, the main dashboard and the *Add room* screen (room number, room type, bed type, price) are implemented. The customer registration, check-out and payment screens are placeholders on the dashboard.
+**Status: early stage.** Staff login, the main dashboard and the *Add room* screen (room number, room type, bed type, price) are implemented. The other dashboard buttons (customer registration, customer details, payment, staff) are not wired up yet.
 
 ## Running
 
